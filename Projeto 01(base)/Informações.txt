@@ -1,0 +1,1 @@
+Esse projeto não foca em localhost.Apenas le o html.

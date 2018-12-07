@@ -1,0 +1,9 @@
+Começo:static k=NULL e int j=0;
+x = new();
+x.k = 55 --> x.k=55 e x.j=33
+x = new(); x.j=25 e x.k=42
+Mostra : 25 e 42
+teste(x.j,x)--> y = x e x=25 -> x.j=25 e x.k=111
+Mostra : 111 e 25 
+teste2(x.j,x)--> x=x.j e y=x-> x.j=25 e x.k=37
+

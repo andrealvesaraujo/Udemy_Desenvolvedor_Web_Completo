@@ -1,0 +1,3 @@
+O projeto 01 modificado esta na pasta C:xampp/htdocs/projeto1
+O resto do curso está la
+Lembrando de xampp para usar banco de dados(MySql) e apache
